@@ -1,0 +1,155 @@
+{ "products" :
+
+[{
+  "id": 1,
+  "product_name": "Rabbit - Legs",
+  "price": "Rupiah",
+  "stock": 97
+}, {
+  "id": 2,
+  "product_name": "Chocolate - Milk Coating",
+  "price": "Ruble",
+  "stock": 20
+}, {
+  "id": 3,
+  "product_name": "Gelatine Powder",
+  "price": "Lev",
+  "stock": 63
+}, {
+  "id": 4,
+  "product_name": "Flour Dark Rye",
+  "price": "Yuan Renminbi",
+  "stock": 58
+}, {
+  "id": 5,
+  "product_name": "Potatoes - Pei 10 Oz",
+  "price": "Ruble",
+  "stock": 43
+}, {
+  "id": 6,
+  "product_name": "Blouse / Shirt / Sweater",
+  "price": "Zloty",
+  "stock": 10
+}, {
+  "id": 7,
+  "product_name": "Bagel - Everything Presliced",
+  "price": "Yuan Renminbi",
+  "stock": 76
+}, {
+  "id": 8,
+  "product_name": "Lemon Pepper",
+  "price": "Euro",
+  "stock": 24
+}, {
+  "id": 9,
+  "product_name": "Broom - Angled",
+  "price": "Euro",
+  "stock": 82
+}, {
+  "id": 10,
+  "product_name": "Juice - Prune",
+  "price": "Euro",
+  "stock": 84
+}, {
+  "id": 11,
+  "product_name": "Schnappes Peppermint - Walker",
+  "price": "Zloty",
+  "stock": 99
+}, {
+  "id": 12,
+  "product_name": "Trout - Rainbow, Frozen",
+  "price": "Ruble",
+  "stock": 9
+}, {
+  "id": 13,
+  "product_name": "Ecolab - Orange Frc, Cleaner",
+  "price": "Yuan Renminbi",
+  "stock": 46
+}, {
+  "id": 14,
+  "product_name": "Ginger - Pickled",
+  "price": "Rupiah",
+  "stock": 89
+}, {
+  "id": 15,
+  "product_name": "Ham - Procutinni",
+  "price": "Rupee",
+  "stock": 22
+}, {
+  "id": 16,
+  "product_name": "Bread - Italian Sesame Poly",
+  "price": "Yuan Renminbi",
+  "stock": 65
+}, {
+  "id": 17,
+  "product_name": "Pepper - Green Thai",
+  "price": "Rupee",
+  "stock": 26
+}, {
+  "id": 18,
+  "product_name": "Cheese - Mozzarella, Buffalo",
+  "price": "Yuan Renminbi",
+  "stock": 13
+}, {
+  "id": 19,
+  "product_name": "Corn - On The Cob",
+  "price": "Ruble",
+  "stock": 52
+}, {
+  "id": 20,
+  "product_name": "Pepper - Black, Crushed",
+  "price": "Yuan Renminbi",
+  "stock": 99
+}, {
+  "id": 21,
+  "product_name": "Salmon - Atlantic, Skin On",
+  "price": "Euro",
+  "stock": 25
+}, {
+  "id": 22,
+  "product_name": "Lid - 10,12,16 Oz",
+  "price": "Yuan Renminbi",
+  "stock": 56
+}, {
+  "id": 23,
+  "product_name": "Wine - Pinot Grigio Collavini",
+  "price": "Euro",
+  "stock": 65
+}, {
+  "id": 24,
+  "product_name": "Stock - Veal, Brown",
+  "price": "Rial",
+  "stock": 63
+}, {
+  "id": 25,
+  "product_name": "Juice - Orange",
+  "price": "Dollar",
+  "stock": 33
+}, {
+  "id": 26,
+  "product_name": "Sauce - Vodka Blush",
+  "price": "Yuan Renminbi",
+  "stock": 1
+}, {
+  "id": 27,
+  "product_name": "Oil - Avocado",
+  "price": "Peso",
+  "stock": 47
+}, {
+  "id": 28,
+  "product_name": "Remy Red",
+  "price": "Yen",
+  "stock": 30
+}, {
+  "id": 29,
+  "product_name": "Sugar - Brown",
+  "price": "Peso",
+  "stock": 44
+}, {
+  "id": 30,
+  "product_name": "Gingerale - Schweppes, 355 Ml",
+  "price": "Ruble",
+  "stock": 86
+}]
+
+}
